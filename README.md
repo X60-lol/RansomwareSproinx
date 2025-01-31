@@ -3,13 +3,14 @@ Sproinx is a PowerShell Ransomware Simulator with C2 Server capabilities. This t
 
 All communication between the two elements is encrypted or encoded so as to be undetected by traffic inspection mechanisms, although at no time is HTTPS used at any time.
 
-Requirements
+# Requirements
 PowerShell 4.0 or greater
-Download
+
+# Download
 It is recommended to clone the complete repository or download the zip file. You can do this by running the following command:
 
-git clone https://github.com/barro77514/Sproinx
-Usage
+git clone https://github.com/X60-lol/RansomwareSproinx.git
+
 
  Info:  This tool helps you simulate encryption process of a
         generic ransomware in PowerShell with C2 capabilities
